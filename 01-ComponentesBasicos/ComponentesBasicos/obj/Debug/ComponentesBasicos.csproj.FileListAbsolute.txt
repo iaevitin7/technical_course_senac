@@ -1,0 +1,11 @@
+C:\Users\fabio.correa\source\repos\ComponentesBasicos\ComponentesBasicos\bin\Debug\ComponentesBasicos.exe.config
+C:\Users\fabio.correa\source\repos\ComponentesBasicos\ComponentesBasicos\bin\Debug\ComponentesBasicos.exe
+C:\Users\fabio.correa\source\repos\ComponentesBasicos\ComponentesBasicos\bin\Debug\ComponentesBasicos.pdb
+C:\Users\fabio.correa\source\repos\ComponentesBasicos\ComponentesBasicos\obj\Debug\ComponentesBasicos.csproj.AssemblyReference.cache
+C:\Users\fabio.correa\source\repos\ComponentesBasicos\ComponentesBasicos\obj\Debug\ComponentesBasicos.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio.correa\source\repos\ComponentesBasicos\ComponentesBasicos\obj\Debug\ComponentesBasicos.frmPrincipal.resources
+C:\Users\fabio.correa\source\repos\ComponentesBasicos\ComponentesBasicos\obj\Debug\ComponentesBasicos.Properties.Resources.resources
+C:\Users\fabio.correa\source\repos\ComponentesBasicos\ComponentesBasicos\obj\Debug\ComponentesBasicos.csproj.GenerateResource.cache
+C:\Users\fabio.correa\source\repos\ComponentesBasicos\ComponentesBasicos\obj\Debug\ComponentesBasicos.csproj.CoreCompileInputs.cache
+C:\Users\fabio.correa\source\repos\ComponentesBasicos\ComponentesBasicos\obj\Debug\ComponentesBasicos.exe
+C:\Users\fabio.correa\source\repos\ComponentesBasicos\ComponentesBasicos\obj\Debug\ComponentesBasicos.pdb
