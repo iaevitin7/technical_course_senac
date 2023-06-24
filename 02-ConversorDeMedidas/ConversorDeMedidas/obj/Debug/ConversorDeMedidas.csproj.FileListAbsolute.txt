@@ -1,0 +1,11 @@
+C:\Users\fabio.correa\source\repos\ConversorDeMedidas\ConversorDeMedidas\bin\Debug\ConversorDeMedidas.exe.config
+C:\Users\fabio.correa\source\repos\ConversorDeMedidas\ConversorDeMedidas\bin\Debug\ConversorDeMedidas.exe
+C:\Users\fabio.correa\source\repos\ConversorDeMedidas\ConversorDeMedidas\bin\Debug\ConversorDeMedidas.pdb
+C:\Users\fabio.correa\source\repos\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\ConversorDeMedidas.csproj.AssemblyReference.cache
+C:\Users\fabio.correa\source\repos\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\ConversorDeMedidas.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio.correa\source\repos\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\ConversorDeMedidas.Properties.Resources.resources
+C:\Users\fabio.correa\source\repos\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\ConversorDeMedidas.csproj.GenerateResource.cache
+C:\Users\fabio.correa\source\repos\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\ConversorDeMedidas.csproj.CoreCompileInputs.cache
+C:\Users\fabio.correa\source\repos\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\ConversorDeMedidas.exe
+C:\Users\fabio.correa\source\repos\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\ConversorDeMedidas.pdb
+C:\Users\fabio.correa\source\repos\ConversorDeMedidas\ConversorDeMedidas\obj\Debug\ConversorDeMedidas.frmPrincipal.resources
