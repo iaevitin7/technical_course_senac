@@ -1,0 +1,11 @@
+C:\Users\fabio.correa\source\repos\GeradorDeSenha\GeradorDeSenha\bin\Debug\GeradorDeSenha.exe.config
+C:\Users\fabio.correa\source\repos\GeradorDeSenha\GeradorDeSenha\bin\Debug\GeradorDeSenha.exe
+C:\Users\fabio.correa\source\repos\GeradorDeSenha\GeradorDeSenha\bin\Debug\GeradorDeSenha.pdb
+C:\Users\fabio.correa\source\repos\GeradorDeSenha\GeradorDeSenha\obj\Debug\GeradorDeSenha.csproj.AssemblyReference.cache
+C:\Users\fabio.correa\source\repos\GeradorDeSenha\GeradorDeSenha\obj\Debug\GeradorDeSenha.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio.correa\source\repos\GeradorDeSenha\GeradorDeSenha\obj\Debug\GeradorDeSenha.Properties.Resources.resources
+C:\Users\fabio.correa\source\repos\GeradorDeSenha\GeradorDeSenha\obj\Debug\GeradorDeSenha.csproj.GenerateResource.cache
+C:\Users\fabio.correa\source\repos\GeradorDeSenha\GeradorDeSenha\obj\Debug\GeradorDeSenha.csproj.CoreCompileInputs.cache
+C:\Users\fabio.correa\source\repos\GeradorDeSenha\GeradorDeSenha\obj\Debug\GeradorDeSenha.exe
+C:\Users\fabio.correa\source\repos\GeradorDeSenha\GeradorDeSenha\obj\Debug\GeradorDeSenha.pdb
+C:\Users\fabio.correa\source\repos\GeradorDeSenha\GeradorDeSenha\obj\Debug\GeradorDeSenha.frmPrincipal.resources
