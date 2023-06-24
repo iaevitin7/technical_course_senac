@@ -1,0 +1,11 @@
+C:\Users\fabio.correa\source\repos\CalculaFrete\CalculaFrete\bin\Debug\CalculaFrete.exe.config
+C:\Users\fabio.correa\source\repos\CalculaFrete\CalculaFrete\bin\Debug\CalculaFrete.exe
+C:\Users\fabio.correa\source\repos\CalculaFrete\CalculaFrete\bin\Debug\CalculaFrete.pdb
+C:\Users\fabio.correa\source\repos\CalculaFrete\CalculaFrete\obj\Debug\CalculaFrete.csproj.AssemblyReference.cache
+C:\Users\fabio.correa\source\repos\CalculaFrete\CalculaFrete\obj\Debug\CalculaFrete.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio.correa\source\repos\CalculaFrete\CalculaFrete\obj\Debug\CalculaFrete.frmPrincipal.resources
+C:\Users\fabio.correa\source\repos\CalculaFrete\CalculaFrete\obj\Debug\CalculaFrete.Properties.Resources.resources
+C:\Users\fabio.correa\source\repos\CalculaFrete\CalculaFrete\obj\Debug\CalculaFrete.csproj.GenerateResource.cache
+C:\Users\fabio.correa\source\repos\CalculaFrete\CalculaFrete\obj\Debug\CalculaFrete.csproj.CoreCompileInputs.cache
+C:\Users\fabio.correa\source\repos\CalculaFrete\CalculaFrete\obj\Debug\CalculaFrete.exe
+C:\Users\fabio.correa\source\repos\CalculaFrete\CalculaFrete\obj\Debug\CalculaFrete.pdb

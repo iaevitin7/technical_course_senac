@@ -1,0 +1,12 @@
+O objetivo é calcular o frete de uma venda baseada no estado em que ela foi realizada e em seu valor.
+
+- Para vendas acima de 1000 reais, o frete é grátis.
+- Para vendas realizadas em São Paulo, o frete é de R$ 5,00.
+- Para vendas realizadas no Rio de Janeiro, o frete é de R$ 10,00.
+- Para vendas realizadas no Amazonas, o frete é de R$ 20,00.
+- Para vendas realizadas nos demais estados, o frete é de R$ 15,00.
+
+- CEP SP: 03131010
+- CEP RJ: 20950-091
+- CEP AM: 69050-010
+- CEP BA: 41820-021
